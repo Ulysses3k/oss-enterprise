@@ -23,7 +23,7 @@ A great maintainer:
 
 ## Preparing your project for open source
 
-Check out the [key questions](key-questions-for-choosing-projects.md) and open a [new issue](/issues/new?template=new-release.md) in this repository to signal you are planning to  open source the project. Carefully consider what is in your repository. It was once private and may contain confidential or sensitive discussions.
+Check out the __key questions__ and open a __new issue__ in this repository to signal you are planning to  open source the project. Carefully consider what is in your repository. It was once private and may contain confidential or sensitive discussions.
 
 ## Maintaining your project
 
