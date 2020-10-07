@@ -18,6 +18,28 @@ Before you open source your project, consider the effort required to maintain it
 
 #### Who owns the code I contribute to open source projects?
 
+I do.
+
+#### What is the purpose of this repository?
+
+To teach me how to set up open source projects.
+
+#### Who should someone cntact if they have questions?
+
+They should contact me at ceconomoujr@gmail.com.
+
+#### How should someone make contact if they have questions?
+
+They should contact either by opening an issue or by sending me an email.
+
+#### What are the first steps to getting started open sourcing a project?
+
+The first step is to establish preliminary goals.
+
+#### How does this repository relate to other projects and business goals?
+
+It teaches me how to set up open source projects so that I can start open source projects that will help my business.
+
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
