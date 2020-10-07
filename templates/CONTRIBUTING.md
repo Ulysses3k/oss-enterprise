@@ -20,7 +20,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
-- Follow the [style guide][link to styleguide].
+- Follow the [style guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#styleguides).
 - Write tests.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
